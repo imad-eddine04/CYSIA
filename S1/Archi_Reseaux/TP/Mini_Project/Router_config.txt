@@ -63,3 +63,43 @@ end
 write memory
 
 ----------------------------------------------------------
+-------------Syslog configuration---------------------------
+
+enable
+configure terminal
+
+logging 192.168.1.20
+logging trap warnings
+service timestamps log datetime msec
+
+end
+write memory
+
+----------------------------------------------------------
+
+-----------NTP configuration (time sync)-------------------
+
+On Server-PT (NTP master):
+
+1. Go to Services → NTP.
+
+2. Turn NTP On.
+
+3. Make sure the server IP is 192.168.1.20.
+
+4. (Optional) Set a basic time there.
+
+On router R1 :
+
+enable
+configure terminal
+
+clock timezone CET 1 0
+ntp server 192.168.1.20
+ntp update-calendar
+
+end
+write memory
+
+
+----------------------------------------------------------
