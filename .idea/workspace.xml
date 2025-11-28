@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/S1/Archi_Reseaux/TP/Mini_Project/Mini_Project.pkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Archi_Reseaux/TP/Mini_Project/Router_config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/S1/Archi_Reseaux/TP/Mini_Project/Router_config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/ML learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CYSIA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/imad-eddine04/CYSIA.git",
+    "accountId": "44ba6b5c-fbac-414e-8667-6272921b17d7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3674KVHUIKvmaOz7m7VvkEeT6Li" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Cours1.executor": "Run",
+    "Python.Math_crypto_TP_fermat.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="" />
+      <created>1764344211532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764344211532</updated>
+    </task>
+    <servers />
+  </component>
+</project>
