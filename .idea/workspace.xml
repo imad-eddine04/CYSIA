@@ -5,39 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/S1/Archi_Reseaux/TP/Mini_Project/Mini_Project.pkt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Archi_Reseaux/TP/Mini_Project/Router_config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/S1/Archi_Reseaux/TP/Mini_Project/Router_config.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/ML learning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CYSIA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/Learning/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/Preparation for exam/DataSet_learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/Preparation for exam/Fill_Missing _Val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/Preparation for exam/Handling_Missing_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/Preparation for exam/Sklearn_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/TP/Exo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/TP/Exo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/TP/employees.csv" beforeDir="false" afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/employees.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/imad-eddine04/CYSIA.git",
-    "accountId": "44ba6b5c-fbac-414e-8667-6272921b17d7"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/imad-eddine04/CYSIA.git&quot;,
+    &quot;accountId&quot;: &quot;44ba6b5c-fbac-414e-8667-6272921b17d7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3674KVHUIKvmaOz7m7VvkEeT6Li" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +51,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Cours1.executor": "Run",
+    "Python.DataSet_learn.executor": "Run",
+    "Python.Exo11.executor": "Run",
+    "Python.Exo12.executor": "Run",
+    "Python.Fill_Missing _Val.executor": "Run",
+    "Python.Handling_Missing_Values.executor": "Run",
     "Python.Math_crypto_TP_fermat.executor": "Run",
+    "Python.Sklearn_test.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -70,6 +80,28 @@
       <option name="presentableId" value="Default" />
       <updated>1764344211532</updated>
     </task>
+    <task id="LOCAL-00001" summary="set the environment for python work">
+      <option name="closed" value="true" />
+      <created>1764345359014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764345359014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="just somme unimportent edits">
+      <option name="closed" value="true" />
+      <created>1764345442261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764345442261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set the environment for python work" />
+    <MESSAGE value="just somme unimportent edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
