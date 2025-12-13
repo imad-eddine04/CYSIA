@@ -1,40 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 #include <windows.h>
 #define pp printf("\n-------------------------------------------------------------------------------------------\n");
 
-int comparisons = 0, recursiveABR = 0;
+int comparisons = 0, mouvements = 0;
 
-typedef struct abr{
-	int val;
-	struct abr *g, *d;
-} abr;
-
-void insert(abr **t, int e) {
-	if(*t == NULL) {
-		comparisons++;
-		*t = malloc(sizeof(abr));
-		(*t)->val = e;
-		(*t)->g = NULL;
-		(*t)->d = NULL;
-	}
-	else {
-		comparisons++;
-		recursiveABR++;
-		if((*t)->val > e) {
-			insert(&(*t)->g, e);
-		}
-		else {
-			insert(&(*t)->d, e);
-		}
-	}
+void echange(int *a, int *b) {
+	int tmp = *a;
+	*a = *b;
+	*b = tmp;
+	mouvements++;
 }
 
-void afficher(abr *t) {
-	if(t != NULL) {
-		afficher(t->g);
-		printf("%d ", t->val);
-		afficher(t->d);
+void tri(int t[], int n) {
+   	int i, j, x, indmin;
+	for(i=0; i<n-1; i++) {
+		indmin = i;
+		for(j=i+1; j<n; j++) {
+			comparisons++;
+			if(t[j] < t[indmin]) indmin = j;
+		}
+		comparisons++;
+		if(i != indmin) echange(&t[i], &t[indmin]);
 	}
 }
 
@@ -46,89 +34,80 @@ void aff(int t[], int n) {
 }
 
 void aleatoire(int n) {
-	abr *tete = NULL;
 	int i;
 	int t[n];
-	LARGE_INTEGER f, s, e;
+	LARGE_INTEGER f, s, e, st, et;
 	for(i=0; i<n; i++) {
 		t[i] = rand() % n;
 	}
-	printf("Avant ABR:\n");
+	printf("Avant tri:\n");
 	aff(t, n);
 	pp
-	printf("Apres ABR:\n");
+	printf("Apres tri:\n");
 	QueryPerformanceFrequency(&f);
 	QueryPerformanceCounter(&s);
-	for(i=0; i<n; i++) {
-		insert(&tete, t[i]);
-	}
+	tri(t, n);
 	QueryPerformanceCounter(&e);
-	afficher(tete);
-	pp
-	printf("Temp de creation ABR: %.20f\n", (double)(e.QuadPart - s.QuadPart) / f.QuadPart);
-	printf("Nombre de comparaisons de ABR: %d\nNombre d appels recursive de ABR: %d\n",
-		comparisons, recursiveABR
-	);
-	comparisons = 0;
-	recursiveABR = 0;
-	pp
-}
-
-void triees(int n) {
-	abr *tete = NULL;
-	int i;
-	int t[n];
-	LARGE_INTEGER f, s, e;
-	for(i=0; i<n; i++) {
-		t[i] = i;
-	}
-	printf("Avant ABR:\n");
 	aff(t, n);
 	pp
-	printf("Apres ABR:\n");
-	QueryPerformanceFrequency(&f);
-	QueryPerformanceCounter(&s);
-	for(i=0; i<n; i++) {
-		insert(&tete, t[i]);
-	}
-	QueryPerformanceCounter(&e);
-	afficher(tete);
-	pp
-	printf("Temp de creation ABR: %.20f\n", (double)(e.QuadPart - s.QuadPart) / f.QuadPart);
-	printf("Nombre de comparaisons de ABR: %d\nNombre d appels recursive de ABR: %d\n",
-		comparisons, recursiveABR
+	printf("Temp de tri: %.20f\n", (double)(e.QuadPart - s.QuadPart) / f.QuadPart);
+	printf("Nombre de comparaisons de tri: %d\nNombre mouvements de tri: %d\n",
+		comparisons, mouvements
 	);
 	comparisons = 0;
-	recursiveABR = 0;
+	mouvements = 0;
 	pp
 }
 
 void inversees(int n) {
-	abr *tete = NULL;
 	int i;
 	int t[n];
-	LARGE_INTEGER f, s, e;
+	LARGE_INTEGER f, s, e, st, et;
 	for(i=0; i<n; i++) {
 		t[i] = n-i-1;
 	}
-	printf("Avant ABR:\n");
+	printf("Avant tri:\n");
 	aff(t, n);
 	pp
-	printf("Apres ABR:\n");
+	printf("Apres tri:\n");
 	QueryPerformanceFrequency(&f);
 	QueryPerformanceCounter(&s);
-	for(i=0; i<n; i++) {
-		insert(&tete, t[i]);
-	}
+	tri(t, n);
 	QueryPerformanceCounter(&e);
-	afficher(tete);
+	aff(t, n);
 	pp
-	printf("Temp de creation ABR: %.20f\n", (double)(e.QuadPart - s.QuadPart) / f.QuadPart);
-	printf("Nombre de comparaisons de ABR: %d\nNombre d appels recursive de ABR: %d\n",
-		comparisons, recursiveABR
+	printf("Temp de tri: %.20f\n", (double)(e.QuadPart - s.QuadPart) / f.QuadPart);
+	printf("Nombre de comparaisons de tri: %d\nNombre mouvements de tri: %d\n",
+		comparisons, mouvements
 	);
 	comparisons = 0;
-	recursiveABR = 0;
+	mouvements = 0;
+	pp
+}
+
+void triees(int n) {
+	int i;
+	int t[n];
+	LARGE_INTEGER f, s, e, st, et;
+	for(i=0; i<n; i++) {
+		t[i] = i;
+	}
+	printf("Avant tri:\n");
+	aff(t, n);
+	pp
+	printf("Apres tri:\n");
+	QueryPerformanceFrequency(&f);
+	QueryPerformanceCounter(&s);
+	tri(t, n);
+	QueryPerformanceCounter(&e);
+	aff(t, n);
+	pp
+	printf("Temp de tri: %.20f\n", (double)(e.QuadPart - s.QuadPart) / f.QuadPart);
+	printf("Nombre de comparaisons de tri: %d\nNombre mouvements de tri: %d\n",
+		comparisons, mouvements
+	);
+	comparisons = 0;
+	mouvements = 0;
 	pp
 }
 

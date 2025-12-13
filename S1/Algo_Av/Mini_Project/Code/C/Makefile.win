@@ -1,0 +1,40 @@
+# Project: ASD_Mini_Project
+# Makefile created by Embarcadero Dev-C++ 6.3
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = ABR_ASD_AV.o Insertion_projet.o Selection.o tas_max_tab.o tri_bulle_projet.o
+LINKOBJ  = ABR_ASD_AV.o Insertion_projet.o Selection.o tas_max_tab.o tri_bulle_projet.o
+LIBS     = -L"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib" -L"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+CXXINCS  = -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"
+BIN      = ASD_Mini_Project.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+DEL      = C:\Program Files (x86)\Embarcadero\Dev-Cpp\devcpp.exe INTERNAL_DEL
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${DEL} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+ABR_ASD_AV.o: ABR_ASD_AV.c
+	$(CC) -c ABR_ASD_AV.c -o ABR_ASD_AV.o $(CFLAGS)
+
+Insertion_projet.o: Insertion_projet.c
+	$(CC) -c Insertion_projet.c -o Insertion_projet.o $(CFLAGS)
+
+Selection.o: Selection.c
+	$(CC) -c Selection.c -o Selection.o $(CFLAGS)
+
+tas_max_tab.o: tas_max_tab.c
+	$(CC) -c tas_max_tab.c -o tas_max_tab.o $(CFLAGS)
+
+tri_bulle_projet.o: tri_bulle_projet.c
+	$(CC) -c tri_bulle_projet.c -o tri_bulle_projet.o $(CFLAGS)
