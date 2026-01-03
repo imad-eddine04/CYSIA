@@ -51,7 +51,7 @@ from unicodedata import numeric
 # sns.heatmap(data.isnull(), cbar=False, yticklabels=False, cmap='viridis')
 # plt.show()
 
-df = pd.read_csv("Salaries.csv", index_col=0)
+df = pd.read_csv("../DataSets/Salaries.csv", index_col=0)
 # df = pd.read_csv("C:\DataSets\Dataset\Salaries.csv")
 
 print(df.shape, end='\n-----------------------------------------------------\n')

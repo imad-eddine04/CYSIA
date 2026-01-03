@@ -2,12 +2,25 @@ from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report
+import pandas as pd
+
+
+
+df = pd.read_csv("..\\DataSets\\Iris_Dataset.csv")
+print(df)
+
 
 iris = load_iris()
 
 x = iris.data   #features
 y = iris.target     #lables
 
+feature_names = iris.feature_names # récupérer la liste des caractéristiques des fleurs
+target_names = iris.target_names # récupérer la liste des résultats désirés
+
+print("Feature names:", feature_names)
+# affiche
+print("Target names:", target_names)
 
 #Split into train and test
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=0)
@@ -23,13 +36,6 @@ acc = accuracy_score(y_test, y_pred)
 print("Accuracy:", acc)
 
 print(classification_report(y_test, y_pred))
-
-
-
-
-
-
-
 
 """
 #importer le dataset Iris

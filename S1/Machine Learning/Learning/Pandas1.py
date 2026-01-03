@@ -11,14 +11,9 @@ print(df1)
 
 
 d = {"one": [1.0, 2.0, 3.0], "two": [4.0, 3.0, 2.0]}
-df = pd.DataFrame(d) # méthode 1 : avec index par défaut. Les clés du dictionnaire
-représentent les noms des colonnes
+df = pd.DataFrame(d) # méthode 1 : avec index par défaut. Les clés du dictionnairereprésentent les noms des colonnes
 print(df)
-# affiche
-one two
-0 1.0 4.0
-1 2.0 3.0
-2 3.0 2.0
+# afficheone two
 df1 = pd.DataFrame(d, index=["a", "b", "c"]) # méthode 2 : avec une liste d’index
 print(df1)
 # affiche one two a 1.0 4.0 b 2.0 3.0 c 3.0 2.0

@@ -5,7 +5,7 @@ from sklearn.impute import SimpleImputer
 from matplotlib import pyplot as plt
 
 
-df = pd.read_csv('Salaries.csv', index_col=0)
+df = pd.read_csv('../DataSets/Salaries.csv', index_col=0)
 print(df.shape)
 print(df.info())
 print("----------------------------------------------------------------------")

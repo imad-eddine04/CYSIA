@@ -1,23 +1,23 @@
 import pandas as pd
 
 #loading dataset
-df = pd.read_csv('C:\\Users\\T14s\\Desktop\\CYSIA\\S1\\Machine Learning\\TP\\employees.csv')
+df = pd.read_csv('..\\DataSets\\employees.csv')
 
 
-df["Team"] = df["Team"].fillna("Zahiyaaaaaaaaaaaaa")
+df["Team"] = df["Team"].fillna("Uknowen")
 #check how many missing values per column
 print(df.isnull())
 
 df_drop = df.dropna()
 print(df_drop)
 
-df["Team"] = df["Team"].fillna("Unknown")
+
 
 mean_salary = df["Salary"].mean()
 df["Salary"] = df["Salary"].fillna(mean_salary)
 
 
-print(df)
+print(df.to_string())
 
 print(mean_salary)
 

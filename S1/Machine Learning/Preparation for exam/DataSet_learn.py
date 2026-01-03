@@ -1,6 +1,6 @@
 import pandas as pd
 #read data set
-df = pd.read_csv('C:\\Users\\T14s\\Desktop\\CYSIA\\S1\\Machine Learning\\TP\\Salaries.csv')
+df = pd.read_csv('..\\DataSets\\Salaries.csv')
 
 #show first 5 rows
 print(df.head())

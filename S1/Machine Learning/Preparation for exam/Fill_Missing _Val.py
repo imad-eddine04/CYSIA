@@ -1,7 +1,7 @@
 import pandas as pd
 
 #loading dataset
-df = pd.read_csv('C:\\Users\\T14s\\Desktop\\CYSIA\\S1\\Machine Learning\\TP\\Salaries.csv')
+df = pd.read_csv('..\\DataSets\\Salaries.csv')
 
 #Fill missing values with a constant
 

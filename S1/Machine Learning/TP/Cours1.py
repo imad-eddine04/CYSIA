@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import sklearn as sk
 
-data = pd.read_csv("employees.csv", index_col=0)
+data = pd.read_csv("../DataSets/employees.csv", index_col=0)
 print(data.shape)
 print(data.head())
 print(data.describe())
