@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/S1/Algo_Av/Mini_Project/jdsfs.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S1/Algo_Av/Mini_Projects/ABR_ASD_AV.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/Combinaisons_KPCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/Combinaisons_PCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/image_last.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Knowledge/Type_Of_Cyber_Attacks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,24 +42,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Cours1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataSet_learn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exo11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exo12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fill_Missing _Val.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Handling_Missing_Values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Math_crypto_TP_fermat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sklearn_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Cours1.executor": "Run",
+    "Python.DataSet_learn.executor": "Run",
+    "Python.Exo11.executor": "Run",
+    "Python.Exo12.executor": "Run",
+    "Python.Exo2.executor": "Run",
+    "Python.Exo3.executor": "Run",
+    "Python.Fill_Missing _Val.executor": "Run",
+    "Python.Handling_Missing_Values.executor": "Run",
+    "Python.Math_crypto_TP_fermat.executor": "Run",
+    "Python.Sklearn_test.executor": "Run",
+    "Python.TP1.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP\TP1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
