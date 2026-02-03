@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo3.py" afterDir="false" />
+    <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="-TP1&#10;-Exo : 1,2,3&#10;-Date : 2/2/2026">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,12 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1764345442261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-TP1&#10;-Exo : 1,2,3&#10;-Date : 2/2/2026">
+      <option name="closed" value="true" />
+      <created>1770029650295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770029650295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set the environment for python work" />
     <MESSAGE value="just somme unimportent edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="adding some files" />
+    <MESSAGE value="-TP1&#10;-Exo : 1,2,3&#10;-Date : 2/2/2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="-TP1&#10;-Exo : 1,2,3&#10;-Date : 2/2/2026" />
   </component>
 </project>
