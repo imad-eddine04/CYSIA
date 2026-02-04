@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="-TP1&#10;-Exo : 1,2,3&#10;-Date : 2/2/2026">
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/TP1_breast_cancer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
     "Python.Math_crypto_TP_fermat.executor": "Run",
     "Python.Sklearn_test.executor": "Run",
     "Python.TP1.executor": "Run",
+    "Python.TP1_breast_cancer.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
