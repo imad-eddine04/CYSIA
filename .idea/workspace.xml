@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="TP1 Machine Learning (not completed)">
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/TP1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/TP1_Affine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/TP1_Vernam_Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Cour2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/TP/Cours1.py" beforeDir="false" afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/Cours1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/Machine Learning/TP/cour.py" beforeDir="false" afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/cour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/Files/TP 1 introdution to cryptography.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/TP1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/TP1_Affine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Cryptography/TP/TP1_Vernam_Cipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/TP/TP1_breast_cancer.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/TP1_breast_cancer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Cour2.executor": "Run",
     "Python.Cours1.executor": "Run",
     "Python.DataSet_learn.executor": "Run",
     "Python.Exo11.executor": "Run",
@@ -58,6 +65,7 @@
     "Python.TP1.executor": "Run",
     "Python.TP1_Affine.executor": "Run",
     "Python.TP1_breast_cancer.executor": "Run",
+    "Python.cour.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
