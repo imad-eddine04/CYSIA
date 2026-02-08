@@ -53,7 +53,7 @@ from unicodedata import numeric
 
 df = pd.read_csv("Salaries.csv", index_col=0)
 # df = pd.read_csv("C:\DataSets\Dataset\Salaries.csv")
-"""""
+
 print(df.shape, end='\n-----------------------------------------------------\n')
 print(df.info(), end='\n-----------------------------------------------------\n')
 print(df.head(2), end='\n-----------------------------------------------------\n')
@@ -182,7 +182,7 @@ plt.show()
 sns.pairplot(df)
 plt.show()
 
-"""""
+
 
 Q1 = df.quantile(0.25, numeric_only=True)
 Q3 = df.quantile(0.75, numeric_only=True)

@@ -22,6 +22,9 @@ print(data.head())
 
 data = data.replace(['-', 'na'], np.nan)
 
+print("\nNull values count per column:")
+print(data.isnull().sum())
+
 data['Gender'] = data['Gender'].fillna('Male')
 print("\nData head after filling NaNs:")
 print(data.head())
@@ -38,6 +41,8 @@ if 'Start Date' in data.columns:
     print(data_copy[['Start Date', 'Years_Service']].head())
 
 
+
+
 Q1 = data.quantile(0.25, numeric_only=True)
 Q3 = data.quantile(0.75, numeric_only=True)
 IQR = Q3 - Q1
@@ -50,6 +55,7 @@ plt.title("Boxplot for Numerical Columns")
 plt.show()
 
 print(data.describe())
+"""
 
 
 plt.figure(figsize=(8,5))
@@ -197,3 +203,4 @@ plt.xlabel("Années de service")
 plt.ylabel("Salaire total")
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.show()
+"""
