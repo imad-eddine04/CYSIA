@@ -108,4 +108,4 @@ plt.ylabel("Principal Component 2")
 plt.legend(handles=scatter.legend_elements()[0], labels=['Benign (0)', 'Malignant (1)'], title="Predictions")
 plt.show()
 
-#
+# nkemlo le graph li yprizonti la classification de regression
