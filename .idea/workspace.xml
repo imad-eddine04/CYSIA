@@ -4,8 +4,296 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="Cours 2 machine learning">
-      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/TP/Cour2.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Cour2.py" afterDir="false" />
+    <list default="true" id="d31af8b0-d9b4-4d5a-94c5-1d9e91691f05" name="Changes" comment="ml">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Archi_Reseaux/New folder/11-22-2025_13_46-Tab.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Archi_Reseaux/New folder/11-22-2025_13_46-Tab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Archi_Reseaux/New folder/11-22-2025_13_46-Tab.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Archi_Reseaux/New folder/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/BZ/audio_2026-02-04_19-14-13.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/BZ/audio_2026-02-04_19-14-25.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/BZ/audio_2026-02-04_19-14-29.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/BZ/audio_2026-02-04_19-14-34.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/BZ/audio_2026-02-04_19-14-38.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/BZ/audio_2026-02-04_20-01-07.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/ElevenLabs_2026-02-04T19_32_55_imd_ivc_sp80_s50_sb9_se0_b_m2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/English/Sources/Messenger_creation_8D859806-0F41-4ACA-9609-A730F3A2962B.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Machine Learning/TP/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/TP/MC2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/TP/MC3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/TP/math_crypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/598532214_1374185617582105_7413659818434153462_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/598539894_1227890322546325_5321715043093901077_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/598654202_1328002948992011_8895532506215358000_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/598767528_2041549386701656_6688894937635736344_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/599846365_1193963252267007_8865330103294094804_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/599846399_1679104956806873_181914098139484658_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/599899107_1921733902025200_1837028039440345455_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/599984071_1571605594110969_5941768542461294135_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/600985421_877103158382667_3932693299352150675_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/605301823_1242412297730793_6823859285712013528_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/605301823_1626172285416395_2336510730403439389_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/605808856_847694298009473_259451969393946195_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/605900156_1279155487355812_3489819540930711028_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/606187694_1483129489425715_2292945706566536353_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Cours-20260206T144610Z-1-001.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Training Crypto for Gemini/Euler Totient.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Training Crypto for Gemini/Inverse in Modulo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Training Crypto for Gemini/PGCD &amp; Ecludian Algo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Training Crypto for Gemini/bezout1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Training Crypto for Gemini/bezout2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/Math_Crypto/mathcrypto courses/Training Crypto for Gemini/division successive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/SE_Av/TP/amine/exercise9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/S2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/DES.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/ECB_CBC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/Exo1_TP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/Fiche-TD-1-chiffrement-à-flot-et-secret-parfait.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/Files/Bloc-cipher-TP_260304_122808.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/S-Box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/TP-1-introdution-to-cryptography.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/TP-bloc-cipher.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/broken-Vigenere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/ciphertext.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/decrypted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/many-time-pad-attack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/message_chiffre.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/plaintext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/test_sbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Courses/chapitre 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Application web/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Application web/bedad_Loan.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Application web/templates/After.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Application web/templates/Before.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Friends project/Détection Silencieuse de la Fatigue Numérique2 (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Friends project/Friends Project/last.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Friends project/Friends Project/password_dataset_500_modified.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Repport/Loan_Predection_Project.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Repport/Loan_Predection_Project.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan Prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/bun.lockb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/public/Loan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/public/placeholder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/assets/bank-hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/Charts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/DataPreview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/DataUpload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/MLMetrics.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/MLVisualizations.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/MissingValues.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ModelTester.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/NavLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/accordion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/alert-dialog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/alert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/aspect-ratio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/avatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/badge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/breadcrumb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/calendar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/carousel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/chart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/checkbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/collapsible.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/command.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/context-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/dialog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/drawer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/hover-card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/input-otp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/menubar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/navigation-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/pagination.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/popover.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/progress.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/radio-group.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/resizable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/scroll-area.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/separator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/sheet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/skeleton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/slider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/sonner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/switch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/tabs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/textarea.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/toast.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/toaster.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/toggle-group.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/toggle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/tooltip.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/components/ui/use-toast.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/hooks/use-mobile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/hooks/use-toast.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/lib/dataUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/pages/Index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/pages/NotFound.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/test/example.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/test/setup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Loan_Project/insight-bank-dashboard-main/vitest.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/Zloan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/code/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/f1d4f27b-52fc-46e2-82f7-c76f7180eefa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/DataSet Screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 173958.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 174016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 174100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 174121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 174145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 174232.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 180949.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 181012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/media/scrsh/Screenshot 2026-02-17 181039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/TP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/Player.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/Temperature_NaiveBayes.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/Tp_Naivebayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/Weather_NaiveBayes.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/plyer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/sara/NBC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/sara/Tp_Naivebayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/StochasticGradientDescent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/Courses/1 introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/Courses/2 les Sockets TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/Courses/3 Socket UDP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/ClientEtudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/ServerEtudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/src/main/java/com/mycompany/prog_reseaux/Prog_Reseaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/target/classes/com/mycompany/prog_reseaux/Prog_Reseaux.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TD 1 Socket TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP 1 Socket TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2/src/main/java/com/mycompany/tp2/TP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Clientinttabl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Clientinttabl/src/main/java/com/mycompany/tp2clientinttabl/TP2Clientinttabl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Serveurinttabl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Serveurinttabl/src/main/java/com/mycompany/tp2serveurinttabl/TP2Serveurinttabl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP3/src/main/java/com/mycompany/tp3/TP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPClientint/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPClientint/src/main/java/com/mycompany/tpclientint/TPClientint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPServeurint/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPServeurint/src/main/java/com/mycompany/tpserveurint/TPServeurint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/mavenproject1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/mavenproject1/src/main/java/com/mycompany/mavenproject1/Mavenproject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/files/TD/TD 1 Socket TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/files/TD/TD 2 Socket UDP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/files/TP/TP 1 Socket TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/files/TP/TP 2 Socket UDP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/Exo TP-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/Algerian-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/HomeWork1-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/TP1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/TP3-4-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/TP3-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/TP_4_NLP_2026_Part_2-checkpoint.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/tp2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/Files/TP_3_NLP_2026_img.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/HomeWork/TALM_TP1_HomeWork_Hassi_imad-eddine.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/HomeWork/TALM_TP1_HomeWork_Hassi_imad-eddine.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/HomeWork1-Copy1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/TP1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/TP3-4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/TP3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/TP_4_NLP_2026_Part_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/ai_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/TP/tp2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/cour/Chapter 1 - NLP  LT IMG.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/cour/Chapter_2___LT IMG.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/cour/TP_1_NLP_IMG (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/cour/TP_2_NLP_V2 IMG (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/cour/TP_3_NLP_2026_img.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/TALM/cour/ai_text (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/Cours/cours3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/Project/Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/TP1_nv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP2/TP2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP3/222.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP3/TP3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP3/TP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP3/test1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP3/visages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP4/Exo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP4/Image 2 Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP4/Image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP4/TP4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP4/TP4_nv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP4/tp4_solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP5/TP5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP5/img_br.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP5/match.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP5/match_bruit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/files/TP5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Loan_Project/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/TP/TP1_breast_cancer.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/TP1_breast_cancer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/HomeWork1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/S2/TALM/TP/.ipynb_checkpoints/HomeWork1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/TALM/TP/Algerian.txt" beforeDir="false" afterPath="$PROJECT_DIR$/S2/TALM/TP/Algerian.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/TALM/TP/HomeWork1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/S2/TALM/TP/HomeWork1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +319,9 @@
     &quot;accountId&quot;: &quot;44ba6b5c-fbac-414e-8667-6272921b17d7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -39,36 +330,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Cour2.executor": "Run",
-    "Python.Cours1.executor": "Run",
-    "Python.DataSet_learn.executor": "Run",
-    "Python.Exo11.executor": "Run",
-    "Python.Exo12.executor": "Run",
-    "Python.Exo2.executor": "Run",
-    "Python.Exo3.executor": "Run",
-    "Python.Fill_Missing _Val.executor": "Run",
-    "Python.Handling_Missing_Values.executor": "Run",
-    "Python.Math_crypto_TP_fermat.executor": "Run",
-    "Python.Sklearn_test.executor": "Run",
-    "Python.TP1.executor": "Run",
-    "Python.TP1_Affine.executor": "Run",
-    "Python.TP1_breast_cancer.executor": "Run",
-    "Python.cour.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.AES.executor&quot;: &quot;Run&quot;,
+    &quot;Python.App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cour2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cours1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataSet_learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decision_Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ECB_CBC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EXO1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EXO2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fill_Missing _Val.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handling_Missing_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loan Prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math_crypto_TP_fermat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Present-light-cryptography.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S-Box.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sklearn_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StochasticGradientDescent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP1_Affine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP1_breast_cancer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tp_Naivebayes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zloan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.broken-Vigenere.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cour.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.last.executor&quot;: &quot;Run&quot;,
+    &quot;Python.many-time-pad-attack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.naive_bayes (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zahia.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\Project" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\Project\Legit" />
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\Project\Legit\Template" />
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\Cryptography\TP\Files" />
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP\TP1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="S-Box" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CYSIA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S2/Cryptography/TP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S2/Cryptography/TP/S-Box.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.S-Box" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -133,7 +483,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770539144783</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Cours 2 machine learning (adding comment for homework)">
+      <option name="closed" value="true" />
+      <created>1770539260038</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770539260038</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ml">
+      <option name="closed" value="true" />
+      <created>1771347539848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771347539848</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +510,18 @@
     <MESSAGE value="TP1 Machine Learning (not completed)" />
     <MESSAGE value="TP1 Crypto graphy" />
     <MESSAGE value="Cours 2 machine learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cours 2 machine learning" />
+    <MESSAGE value="Cours 2 machine learning (adding comment for homework)" />
+    <MESSAGE value="ml" />
+    <option name="LAST_COMMIT_MESSAGE" value="ml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/S2/Machine Learning/TP/Cour2.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

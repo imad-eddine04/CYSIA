@@ -1,0 +1,24 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    read -p "Donner un répertoire : " rep
+else
+    rep=$1
+fi
+
+cd $rep
+
+fich=0
+dirs=0
+execs=0
+
+for x in *
+do
+    if [ -f "$x" ]; then fich=$((fich+1)); fi
+    if [ -d "$x" ]; then dirs=$((dirs+1)); fi
+    if [ -x "$x" ]; then execs=$((execs+1)); fi
+done
+
+echo "Fichiers : $fich"
+echo "Répertoires : $dirs"
+echo "Exécutables : $execs"

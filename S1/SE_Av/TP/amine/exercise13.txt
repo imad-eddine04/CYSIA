@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while true
+do
+    heure=`date +%H:%M`
+    if [ "$heure" = "12:00" ]; then
+        shutdown now
+    fi
+done

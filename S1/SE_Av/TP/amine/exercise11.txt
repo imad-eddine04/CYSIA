@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    read -p "Valeur décimale : " n
+else
+    n=$1
+fi
+
+for i in `seq 1 8`; do tab[$i]=0; done
+
+i=8
+while [ $n -gt 0 ]
+do
+    tab[$i]=$((n % 2))
+    n=$((n / 2))
+    i=$((i - 1))
+done
+
+echo "Binaire : ${tab[@]}"

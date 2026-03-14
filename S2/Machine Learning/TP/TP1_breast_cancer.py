@@ -5,6 +5,7 @@ import seaborn as sns
 import pandas as pd
 from sklearn import svm
 from sklearn.decomposition import PCA
+from sklearn.model_selection import train_test_split
 
 df = pd.read_csv("C:/Users/T14s/Desktop/CYSIA/S1/Machine Learning/TP/breast_cancer.csv")
 df_copy = df.copy()
@@ -69,7 +70,33 @@ y = df_copy['diagnosis'].values
 
 print("X : ",X.shape,"y : ",y.shape)
 
-from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+# 1. Drop the 'id' column if it exists in your dataset
+df_copy = df_copy.drop(['id'], axis=1, errors='ignore')
+
+X = df_copy.drop(['diagnosis'], axis = 1).values
+y = df_copy['diagnosis'].values
+
+print("X : ", X.shape, "y : ", y.shape)
+
+x_train, x_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 100, stratify = y)
+
+# 2. Scale the features!
+scaler = StandardScaler()
+x_train = scaler.fit_transform(x_train)
+x_test = scaler.transform(x_test) # Only transform the test set to prevent data leakage
+
+print("x_train : ", x_train.shape, "y_train : ", y_train.shape)
+print("x_test : ", x_test.shape, "y_test : ", y_test.shape)
+
+# 3. Now the model will train almost instantly
+classifier = svm.SVC(kernel = "linear")
+classifier.fit(x_train, y_train)
+
+predicted = classifier.predict(x_test)
+
+
 
 x_train, x_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 100, stratify = y)
 
@@ -134,5 +161,4 @@ plt.show()
 
 
 #travaille : svm ydir hyperplane lazm n affichoh
-
 

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+read -p "Saisir une valeur : " x
+res=1
+
+for i in `seq 1 $x`
+do
+    res=$((res * x))
+done
+
+echo "$x^$x = $res"

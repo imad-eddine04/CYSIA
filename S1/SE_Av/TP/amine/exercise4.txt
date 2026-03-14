@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    read -p "Donner le répertoire : " rep
+else
+    rep=$1
+fi
+
+cd $rep
+
+for f in *
+do
+    chmod 000 "$f"               # désactiver droits
+    ln -s "$f" "$f-lien"         # créer raccourci
+    mv "$f" ".$f"                # cacher fichier
+done

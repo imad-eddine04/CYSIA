@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Global Bank | Loan Approval</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Poppins', sans-serif; background: #f4f7f9; color: #333; margin: 0; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+        .container { background: white; padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); width: 100%; max-width: 600px; }
+        h1 { color: #1a237e; text-align: center; margin-bottom: 10px; font-weight: 600; }
+        p { text-align: center; color: #666; margin-bottom: 30px; }
+        .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+        .input-group { margin-bottom: 15px; }
+        label { display: block; font-size: 13px; font-weight: 600; margin-bottom: 5px; color: #1a237e; }
+        input, select { width: 100%; padding: 12px; border: 1px solid #e0e0e0; border-radius: 8px; box-sizing: border-box; transition: 0.3s; }
+        input:focus { border-color: #1a237e; outline: none; box-shadow: 0 0 5px rgba(26,35,126,0.2); }
+        .full-width { grid-column: span 2; }
+        button { background: #1a237e; color: white; border: none; padding: 15px; border-radius: 8px; width: 100%; font-size: 16px; font-weight: 600; cursor: pointer; transition: 0.3s; margin-top: 20px; }
+        button:hover { background: #0d47a1; transform: translateY(-2px); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Global Bank AI</h1>
+        <p>Loan Eligibility Assessment Portal</p>
+        <form action="/predict" method="POST">
+            <div class="form-grid">
+                <div class="input-group"><label>Credit Score</label><input type="number" name="credit_score" placeholder="e.g. 700" required></div>
+                <div class="input-group"><label>Annual Income ($)</label><input type="number" name="annual_income" placeholder="e.g. 50000" required></div>
+                <div class="input-group"><label>Loan Amount ($)</label><input type="number" name="loan_amount" placeholder="e.g. 15000" required></div>
+                <div class="input-group"><label>Employment (Years)</label><input type="number" name="employment_duration" placeholder="e.g. 5" required></div>
+                <div class="input-group"><label>Age</label><input type="number" name="age" placeholder="25" required></div>
+                <div class="input-group"><label>Children</label><input type="number" name="children" placeholder="0" required></div>
+                <div class="input-group"><label>Previous Loans</label><input type="number" name="prev_loans" placeholder="1" required></div>
+                <div class="input-group">
+                    <label>Vehicle Ownership</label>
+                    <select name="vehicle"><option>No</option><option>Yes</option></select>
+                </div>
+                <div class="input-group">
+                    <label>Employment Status</label>
+                    <select name="employment_status">
+                        <option value="employed">Employed</option>
+                        <option value="self-employed">Self-Employed</option>
+                        <option value="student">Student</option>
+                        <option value="unemployed">Unemployed</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Marital Status</label>
+                    <select name="marital_status">
+                        <option value="single">Single</option>
+                        <option value="married">Married</option>
+                        <option value="divorced">Divorced</option>
+                    </select>
+                </div>
+            </div>
+            <button type="submit">Analyze Loan Risk</button>
+        </form>
+    </div>
+</body>
+</html>

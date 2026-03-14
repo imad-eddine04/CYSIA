@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    read -p "Fichier : " fich
+else
+    fich=$1
+fi
+
+while read nom n1 n2 n3
+do
+    moy=$(( (n1+n2+n3)/3 ))
+    echo "$nom : $moy"
+done < $fich

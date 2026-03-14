@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# Fonction pour saisir un nom d'utilisateur
+saisir_user() {
+    read -p "Entrer le nom d'utilisateur : " user
+}
+
+# Fonction pour vérifier l'existence
+existe() {
+    grep "^$1:" /etc/passwd > /dev/null
+}
+
+
+while true
+do
+    echo "=============================="
+    echo "1 - Vérifier l'existence"
+    echo "2 - Afficher l'UID"
+    echo "q - Quitter"
+    echo "=============================="
+    read -p "Choix : " choix
+
+    case $choix in
+        1)
+            saisir_user
+            if existe "$user"; then
+                echo "L'utilisateur $user existe."
+            else
+                echo "L'utilisateur $user N'EXISTE PAS."
+            fi
+            ;;
+        
+        2)
+            saisir_user
+            if existe "$user"; then
+                uid=$(grep "^$user:" /etc/passwd | cut -d: -f3)
+                echo "UID de $user : $uid"
+            else
+                echo "Utilisateur introuvable."
+            fi
+            ;;
+        
+        q)
+            exit
+            ;;
+
+        *)
+            echo "Choix invalide."
+            ;;
+    esac
+done

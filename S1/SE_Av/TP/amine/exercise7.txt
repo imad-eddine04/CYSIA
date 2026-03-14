@@ -1,0 +1,18 @@
+#!/bin/bash
+
+read -p "Donner les nombres : " -a tab
+n=${#tab[@]}
+
+for i in `seq 0 $((n-1))`
+do
+    for j in `seq $((i+1)) $((n-1))`
+    do
+        if [ ${tab[$i]} -gt ${tab[$j]} ]; then
+            tmp=${tab[$i]}
+            tab[$i]=${tab[$j]}
+            tab[$j]=$tmp
+        fi
+    done
+done
+
+echo "Trié : ${tab[@]}"

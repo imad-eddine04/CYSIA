@@ -1,0 +1,19 @@
+|--- Outlook_Overcast <= 0.50
+|   |--- Humidity_Normal <= 0.50
+|   |   |--- Outlook_Rain <= 0.50
+|   |   |   |--- class: 0
+|   |   |--- Outlook_Rain >  0.50
+|   |   |   |--- Wind_Strong <= 0.50
+|   |   |   |   |--- class: 1
+|   |   |   |--- Wind_Strong >  0.50
+|   |   |   |   |--- class: 0
+|   |--- Humidity_Normal >  0.50
+|   |   |--- Temperature_Cool <= 0.50
+|   |   |   |--- class: 1
+|   |   |--- Temperature_Cool >  0.50
+|   |   |   |--- Wind_Weak <= 0.50
+|   |   |   |   |--- class: 0
+|   |   |   |--- Wind_Weak >  0.50
+|   |   |   |   |--- class: 1
+|--- Outlook_Overcast >  0.50
+|   |--- class: 1

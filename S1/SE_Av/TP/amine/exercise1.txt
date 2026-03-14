@@ -1,0 +1,17 @@
+#!/bin/bash
+
+
+if [ -z "$1" ]; then
+    read -p "Entrez le motif des fichiers à renommer (ex: *.txt) : " motif
+else
+    motif="$1"
+fi
+
+for fichier in $motif
+do
+   
+    if [ -e "$fichier" ]; then
+        mv "$fichier" "-old$fichier"
+        echo "Renommé : $fichier -> -old$fichier"
+    fi
+done

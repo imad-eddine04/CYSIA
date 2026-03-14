@@ -1,0 +1,32 @@
+Artificial intelligence (AI) is reshaping how people work, learn, and communicate. It appears in search engines,
+recommendation systems, navigation apps, and automated customer support. Instead of being programmed with fixed
+rules for every situation, many AI systems rely on machine learning, where algorithms learn patterns from data.
+This approach can improve performance over time as more data becomes available.
+
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These networks can
+learn complex representations from raw inputs such as images, audio, and text. In healthcare, AI can assist doctors
+by detecting patterns in medical images and supporting clinical decisions. In finance, it can help detect fraud,
+estimate risk, and monitor unusual transactions. In industry, AI can optimise supply chains and predict equipment
+failures before they happen.
+
+However, AI also introduces challenges and risks. If training data is biased or incomplete, models may produce
+unfair outcomes. Privacy is another major concern: collecting and storing large volumes of data can expose
+sensitive personal information. Some AI systems are difficult to interpret, making it hard to understand why a
+model produced a particular prediction. For safety-critical applications, transparency and careful validation are
+essential.
+
+Large language models can generate text, summarise documents, and answer questions. They can be useful for writing,
+translation, tutoring, and coding assistance. Yet they may also produce hallucinations: confident statements that
+are incorrect. They can reflect stereotypes found in training data, and they may be misused to generate misleading
+content. For these reasons, evaluation, monitoring, and human oversight are important.
+
+Responsible AI aims to maximise benefits while reducing harm. It includes fairness, accountability, transparency,
+robustness, and security. Good practice involves testing models across different groups, documenting limitations,
+and protecting user data. In the future, AI will likely become more integrated into daily life, so society needs
+both technical solutions and clear policies. Collaboration between researchers, engineers, organisations, and 
+citizens is key to building trustworthy AI.
+
+Artificial intelligence is transforming the way people live, study, and interact with technology. It is used in search engines,
+recommendation platforms, intelligent assistants, and automated support systems. Rather than relying only on fixed and predefined
+rules, modern AI systems depend on machine learning algorithms that identify patterns from large datasets. As more data becomes 
+available, these systems can continuously improve their performance and adapt to new situations.

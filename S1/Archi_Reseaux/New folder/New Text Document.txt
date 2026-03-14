@@ -1,0 +1,23 @@
+Understanding Communication Problems
+
+When CV1 finds an empty channel, it might assume that B is not occupied, even if B is receiving data from A. This can lead to issues in communication.
+
+Problem Scenarios
+
+
+
+
+
+Collision at B: If C starts sending data to B while B is already receiving data from A, a collision can occur at B. C might believe the channel is free because it doesn't encompass A, leading to a communication breakdown. This is similar to a hidden terminal problem, where C is a 'hidden terminal' for A.
+
+Network Diagram illustrating an Ad Hoc network with nodes A, B, C, and D. The diagram features overlapping circles representing communication ranges. The text mentions Exercise 2.
+
+
+
+Hidden Terminal Problem
+
+The hidden terminal problem arises when two nodes, for example, A and C, cannot hear each other but both want to transmit to a third node, B. C might perceive the channel as clear because it's out of A's range, leading to a collision at B when both transmit simultaneously. This explains why data from C might not reach A, and vice-versa, even if they are both trying to communicate with B. This is also referred to as the 'terminal cash' problem.
+
+Next Steps
+
+We will discuss this problem further and do another exercise on the 'terminal cash' issue, also known as the 'exposed terminal' problem, in the next session. We will focus on the first two tests for now.
