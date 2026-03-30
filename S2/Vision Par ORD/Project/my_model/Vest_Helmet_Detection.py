@@ -71,7 +71,7 @@ class App(customtkinter.CTk):
         results = self.model(file_path, stream=False)  # stream=False for single images
         for r in results:
             im_array = r.plot()  # r.plot() returns a BGR numpy array
-            cv2.imshow("YOLOv8 Detection", im_array)
+            cv2.imshow("Model Detection", im_array)
         cv2.waitKey(0)  # Wait for a key press to close the window
         cv2.destroyAllWindows()
 
@@ -100,8 +100,8 @@ class App(customtkinter.CTk):
             return
 
         # Create a named window and make it full screen
-        cv2.namedWindow("YOLOv8 Detection", cv2.WINDOW_NORMAL)
-        cv2.setWindowProperty("YOLOv8 Detection", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
+        cv2.namedWindow("model Detection", cv2.WINDOW_NORMAL)
+        cv2.setWindowProperty("model Detection", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
 
         while True:
             success, frame = cap.read()
@@ -114,7 +114,7 @@ class App(customtkinter.CTk):
             # Visualize the results on the frame
             for r in results:
                 annotated_frame = r.plot()
-                cv2.imshow("YOLOv8 Detection", annotated_frame)
+                cv2.imshow("model Detection", annotated_frame)
 
             # Break the loop if 'q' is pressed
             if cv2.waitKey(1) & 0xFF == ord("q"):
