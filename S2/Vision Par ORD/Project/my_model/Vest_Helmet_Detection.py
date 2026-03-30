@@ -99,6 +99,10 @@ class App(customtkinter.CTk):
             print(f"Error: Could not open video source '{source}'")
             return
 
+        # Create a named window and make it full screen
+        cv2.namedWindow("YOLOv8 Detection", cv2.WINDOW_NORMAL)
+        cv2.setWindowProperty("YOLOv8 Detection", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
+
         while True:
             success, frame = cap.read()
             if not success:
