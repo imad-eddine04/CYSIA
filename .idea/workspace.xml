@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/HandCamera.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/cbc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/cbc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/Project/my_model/Vest_Helmet_Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Vision Par ORD/Project/my_model/Vest_Helmet_Detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/SNP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/SNP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/SNPnew.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Project/Repport/Loan_Predection_Project.docx" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/Project/Repport/Loan_Predection_Project.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,21 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AES.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DES.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ECB_CBC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Face_Eye_Detector.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Vest_Helmet_Detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.camera.executor&quot;: &quot;Run&quot;,
-    &quot;Python.image.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA/S2/Cryptography/TP/AES&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AES.executor": "Run",
+    "Python.DES.executor": "Run",
+    "Python.ECB_CBC.executor": "Run",
+    "Python.Face_Eye_Detector.executor": "Run",
+    "Python.SPN.executor": "Run",
+    "Python.Vest_Helmet_Detection.executor": "Run",
+    "Python.camera.executor": "Run",
+    "Python.image.executor": "Run",
+    "Python.last.executor": "Run",
+    "Python.sou.executor": "Run",
+    "Python.syLaaast.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/T14s/Desktop/CYSIA/S2/Cryptography/TP/AES"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Cryptography\TP\AES" />
