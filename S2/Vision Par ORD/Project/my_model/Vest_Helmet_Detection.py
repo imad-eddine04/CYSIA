@@ -83,6 +83,9 @@ class App(customtkinter.CTk):
         if not file_path:
             return
 
+        ## stronger with u , fast and fearious , i spelled it wrong , so please fix the ERR
+
+
         #run detection in a separate thread so the main menu is saved
         thread = threading.Thread(target=self._process_stream, args=(file_path,))
         thread.start()

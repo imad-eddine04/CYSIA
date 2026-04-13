@@ -11,3 +11,34 @@ MonImage.show() #On affiche l'image contenue dans la variable MonImage
 #La taille de l'image de tux est : (64, 64)
 #la couleur du pixel de coordonnées (45 ; 40) est (175, 170, 148)
 
+
+
+
+
+
+
+
+
+
+
+
+"""
+
+from PIL import Image
+
+souad = Image.new("RGB",(600,500),"blue")
+
+white = (255,255,255)
+red = (255,0,0)
+
+for i in range(200,400):
+    for j in range(0, 500):
+        souad.putpixel((i,j),white)
+for i in range(400,600):
+    for j in range(0, 500):
+        souad.putpixel((i,j),red)
+
+souad.save("souad.png", "PNG")
+souad.show()
+
+"""

@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Ch3/curves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Ch3/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Neural Networks/MLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/datasets/Neural Networks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/datasets/breast_cancer.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/cbc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/cbc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/cours/Chapitre 1 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/cours/chapitre2 partie DES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/cours/cours DES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TD 1 Socket TCP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP 1 Socket TCP.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/Project/my_model/Vest_Helmet_Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Vision Par ORD/Project/my_model/Vest_Helmet_Detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +56,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AES.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DES.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ECB_CBC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Face_Eye_Detector.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SPN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Vest_Helmet_Detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.camera.executor&quot;: &quot;Run&quot;,
-    &quot;Python.image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.last.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sou.executor&quot;: &quot;Run&quot;,
-    &quot;Python.syLaaast.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA/S2/Cryptography/TP/AES&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AES.executor": "Run",
+    "Python.DES.executor": "Run",
+    "Python.ECB_CBC.executor": "Run",
+    "Python.Exo2.executor": "Run",
+    "Python.Exo3.executor": "Run",
+    "Python.Face_Eye_Detector.executor": "Run",
+    "Python.MLP.executor": "Run",
+    "Python.Neural Networks.executor": "Run",
+    "Python.SPN.executor": "Run",
+    "Python.Vest_Helmet_Detection.executor": "Run",
+    "Python.broken-Vigenere.executor": "Run",
+    "Python.camera.executor": "Run",
+    "Python.curves.executor": "Run",
+    "Python.f.executor": "Run",
+    "Python.gdgd.executor": "Run",
+    "Python.hash exempleMD5.executor": "Run",
+    "Python.hash pdf collision.executor": "Run",
+    "Python.image.executor": "Run",
+    "Python.last.executor": "Run",
+    "Python.sou.executor": "Run",
+    "Python.syLaaast.executor": "Run",
+    "Python.test_exo1.executor": "Run",
+    "Python.test_exo2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP\TP6" />
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP" />
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\TP\datasets" />
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Cryptography\TP\AES" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP" />
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\TP\datasets" />
     </key>
   </component>
   <component name="SharedIndexes">
