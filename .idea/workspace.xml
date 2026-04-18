@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Ch3/curves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Ch3/f.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/Neural Networks/MLP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/datasets/Neural Networks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/datasets/breast_cancer.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/cbc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/cbc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/cours/Chapitre 1 (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/cours/chapitre2 partie DES.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/cours/cours DES.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TD 1 Socket TCP.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP 1 Socket TCP.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/Project/my_model/Vest_Helmet_Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Vision Par ORD/Project/my_model/Vest_Helmet_Detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Vision Par ORD/TP/TP1/Exo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Courses/chapitre 3 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Sec-Sys/Files/TP-5.1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +50,7 @@
   "keyToString": {
     "Python.AES.executor": "Run",
     "Python.DES.executor": "Run",
+    "Python.Decision_Tree.executor": "Run",
     "Python.ECB_CBC.executor": "Run",
     "Python.Exo2.executor": "Run",
     "Python.Exo3.executor": "Run",
@@ -67,9 +58,12 @@
     "Python.MLP.executor": "Run",
     "Python.Neural Networks.executor": "Run",
     "Python.SPN.executor": "Run",
+    "Python.StochasticGradientDescent.executor": "Run",
+    "Python.TP1_breast_cancer.executor": "Run",
     "Python.Vest_Helmet_Detection.executor": "Run",
     "Python.broken-Vigenere.executor": "Run",
     "Python.camera.executor": "Run",
+    "Python.code sha&$.executor": "Run",
     "Python.curves.executor": "Run",
     "Python.f.executor": "Run",
     "Python.gdgd.executor": "Run",
