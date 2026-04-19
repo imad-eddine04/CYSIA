@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import SGDClassifier
 from sklearn import metrics
 
-df = pd.read_csv("C:/Users/T14s/Desktop/CYSIA/S1/Machine Learning/TP/breast_cancer.csv")
+df = pd.read_csv("datasets/breast_cancer.csv")
 df_copy = df.copy()
 
 print(df_copy.shape)
@@ -105,7 +105,7 @@ x_train, x_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 print("x_train : ",x_train.shape, "y_train : ",y_train.shape)
 print("x_test : ",x_test.shape, "y_test : ",y_test.shape)
 
-
+'''
 classifier = svm.SVC(kernel = "linear")
 
 classifier.fit(x_train, y_train)
@@ -160,10 +160,12 @@ plt.ylabel("Second Principal Component")
 plt.title("SVM Hyperplane on 2D PCA Data")
 plt.legend()
 plt.show()
-
+'''
 
 #travaille : svm ydir hyperplane lazm n affichoh
 
+from sklearn.linear_model import SGDClassifier
+from sklearn import metrics
 #Classification : Stochastic Gradient Descent
 
 #Create the classifier

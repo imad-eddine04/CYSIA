@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/Courses/chapitre 3 (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Sec-Sys/Files/TP-5.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/sara/NBC.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/Souad/NBC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/sara/Tp_Naivebayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/NaiveBayes/Souad/Tp_Naivebayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Machine Learning/TP/StochasticGradientDescent.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Machine Learning/TP/StochasticGradientDescent.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.StochasticGradientDescent.executor": "Run",
     "Python.TP1_breast_cancer.executor": "Run",
     "Python.Vest_Helmet_Detection.executor": "Run",
+    "Python.app.executor": "Run",
     "Python.broken-Vigenere.executor": "Run",
     "Python.camera.executor": "Run",
     "Python.code sha&$.executor": "Run",
@@ -73,9 +74,12 @@
     "Python.last.executor": "Run",
     "Python.sou.executor": "Run",
     "Python.syLaaast.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.test_exo1.executor": "Run",
     "Python.test_exo2.executor": "Run",
+    "Python.ui_design.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6"
@@ -89,6 +93,7 @@
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Cryptography\TP\AES" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\Project\my_model" />
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP" />
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Machine Learning\TP\datasets" />
     </key>
