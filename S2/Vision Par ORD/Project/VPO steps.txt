@@ -1,0 +1,34 @@
+
+*   **Gather my dataset:** I will start by collecting 500 to 600 images showing the objects I want to detect in various backgrounds, perspectives, and lighting conditions. I can either take these pictures manually or use online sources like Roboflow Universe or Kaggle.
+
+
+*   **Organize my files:** I will move all my images into a single folder on my computer (e.g., a "candy_images" folder inside a "YOLO" folder).
+*   **Set up my labeling environment:** I'll install **Anaconda** to manage my Python environments. I will then create a new environment, activate it, and install **Label Studio**, an open-source tool for labeling images.
+
+
+*   **Label my images:** After launching Label Studio, I'll create a project, import my images, and set up "Object Detection" labels. I will manually draw **bounding boxes** around each object in my images and assign them to specific classes.
+
+
+*   **Export the data:** Once finished, I will export the labeled data in **YOLO format**, which generates the required folder structure (images and labels folders) and a `classes.txt` file. I'll then package these into a `data.zip` file.
+
+
+*   **Prepare Google Colab:** I will use a **Google Colab notebook** for training to access a free **T4 GPU**. I'll connect to the runtime and verify the GPU is available.
+
+
+*   **Upload and process data in the cloud:** I'll upload my `data.zip` file to Colab and unzip it. I will then use a Python script to split my data into **training (90%) and validation (10%) sets**.
+
+
+*   **Configure the model:** I'll install the **Ultralytics library** and generate a `data.yaml` file to define the paths for my training and validation folders.
+
+
+*   **Select training parameters:** I need to choose a YOLO architecture (like **YOLO11s**) and decide on the number of **epochs** (60 is recommended for datasets with fewer than 200 images) and the **resolution** (typically 640x640).
+
+
+*   **Train the model:** I will run the training command and monitor metrics like **mAP (mean Average Precision)**, precision, and recall to track the model's accuracy as it learns.
+*   **Test and evaluate:** Once training is complete, I'll perform inference on the validation folder to see how well the model identifies objects. If accuracy is low, I might check for label errors or increase the training epochs.
+
+
+*   **Deploy locally:** I will download the trained weights (`best.pt`) and set up a local environment on my PC using Anaconda and the Ultralytics library.
+
+
+*   **Run inference:** Finally, I'll use a custom Python script to run my model on a **live webcam feed, video files, or images** to detect objects in real-time.ds 
