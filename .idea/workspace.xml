@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="Clustering course" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;imad-eddine04&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "Imad-EddineHass"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Imad-EddineHass"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/imad-eddine04/CYSIA.git&quot;,
@@ -113,6 +117,27 @@
       <option name="presentableId" value="Default" />
       <updated>1774525138269</updated>
     </task>
+    <task id="LOCAL-00001" summary="Clustering course">
+      <option name="closed" value="true" />
+      <created>1777191383832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777191383832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Clustering course">
+      <option name="closed" value="true" />
+      <created>1777191396407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777191396407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clustering course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clustering course" />
   </component>
 </project>
