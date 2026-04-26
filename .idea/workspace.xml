@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.AES.executor": "Run",
+    "Python.Clustering.executor": "Run",
     "Python.DES.executor": "Run",
     "Python.Decision_Tree.executor": "Run",
     "Python.ECB_CBC.executor": "Run",
@@ -60,6 +61,7 @@
     "Python.Vest_Helmet_Detection.executor": "Run",
     "Python.app.executor": "Run",
     "Python.broken-Vigenere.executor": "Run",
+    "Python.cLUSTERIG.executor": "Run",
     "Python.camera.executor": "Run",
     "Python.code sha&$.executor": "Run",
     "Python.curves.executor": "Run",
