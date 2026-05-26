@@ -6,32 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="crypto TP 06 - 07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/Asymetrique_chiff/ElGamal.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/Asymetrique_chiff/ElGamal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/Asymetrique_chiff/RSA.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/Asymetrique_chiff/RSA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/Project/Project/ChatApp/src/main/java/com/mycompany/chatapp/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/Project/Project/ChatApp/src/main/java/com/mycompany/chatapp/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/Serveur.java" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/Serveur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/src/main/java/com/mycompany/etudiant/newJavaFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Etudiant/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/target/classes/com/mycompany/prog_reseaux/Prog_Reseaux.class" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/Prog_Reseaux/target/classes/com/mycompany/prog_reseaux/Prog_Reseaux.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Clientinttabl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Clientinttabl/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Serveurinttabl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP2Serveurinttabl/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/classes/com/mycompany/tp5/Etudiant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/classes/com/mycompany/tp5/TP5.class" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/classes/com/mycompany/tp5/TP5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TP5/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPClientint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPClientint/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPServeurint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/TPServeurint/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/mavenproject1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Prog_Reseaux/TP/mavenproject1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/TP/files/TP1_nv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/TP/files/TP5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/TP/files/TP6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/TP/files/TP8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/Hassi_Crypto.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/GUIDE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/Mini Project.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/list configurations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/لائحة الطلبة مع رقم الإعدادات.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/Cours/cours2.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,56 +58,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AES.executor": "Run",
-    "Python.Asymétrique_chiff.executor": "Run",
-    "Python.Chiffremet_authetifier.executor": "Run",
-    "Python.Clustering.executor": "Run",
-    "Python.DES.executor": "Run",
-    "Python.Decision_Tree.executor": "Run",
-    "Python.ECB_CBC.executor": "Run",
-    "Python.ElGamal.executor": "Run",
-    "Python.Exo2.executor": "Run",
-    "Python.Exo3.executor": "Run",
-    "Python.Face_Eye_Detector.executor": "Run",
-    "Python.Hierarchical clustering.executor": "Run",
-    "Python.MLP.executor": "Run",
-    "Python.Neural Networks.executor": "Run",
-    "Python.RSA.executor": "Run",
-    "Python.SPN.executor": "Run",
-    "Python.StochasticGradientDescent.executor": "Run",
-    "Python.TP1_breast_cancer.executor": "Run",
-    "Python.Vest_Helmet_Detection.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.broken-Vigenere.executor": "Run",
-    "Python.cLUSTERIG.executor": "Run",
-    "Python.camera.executor": "Run",
-    "Python.code sha&$.executor": "Run",
-    "Python.curves.executor": "Run",
-    "Python.dbscan.executor": "Run",
-    "Python.dddddd.executor": "Run",
-    "Python.f.executor": "Run",
-    "Python.gdgd.executor": "Run",
-    "Python.hash exempleMD5.executor": "Run",
-    "Python.hash pdf collision.executor": "Run",
-    "Python.image.executor": "Run",
-    "Python.last.executor": "Run",
-    "Python.parity.executor": "Run",
-    "Python.sou.executor": "Run",
-    "Python.syLaaast.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_exo1.executor": "Run",
-    "Python.test_exo2.executor": "Run",
-    "Python.ui_design.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "learning-Prog-Reseau",
-    "last_opened_file_path": "C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AES.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Asymétrique_chiff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chiffremet_authetifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DES.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decision_Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ECB_CBC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ElGamal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Face_Eye_Detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hierarchical clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MLP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Neural Networks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RSA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SPN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StochasticGradientDescent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP1_breast_cancer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vest_Helmet_Detection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.broken-Vigenere.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cLUSTERIG.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.code sha&amp;$.executor&quot;: &quot;Run&quot;,
+    &quot;Python.curves.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dbscan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dddddd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gdgd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash exempleMD5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash pdf collision.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.last.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sou.executor&quot;: &quot;Run&quot;,
+    &quot;Python.souad_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syLaaast.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_exo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_exo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ui_design.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;learning-Prog-Reseau&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP\TP6" />
