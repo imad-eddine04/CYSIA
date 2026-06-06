@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="crypto TP 06 - 07" />
+    <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="crypto TP 06 - 07">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TD/Td3 (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/Hashage/Hachage lab.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/Hashage/shattered-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/Hashage/shattered-2.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +42,13 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/imad-eddine04/CYSIA.git&quot;,
-    &quot;accountId&quot;: &quot;44ba6b5c-fbac-414e-8667-6272921b17d7&quot;
+    &quot;accountId&quot;: &quot;a51dbf12-21e3-43b6-807d-20b3cd2fd9ac&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -50,53 +61,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AES.executor": "Run",
-    "Python.Asymétrique_chiff.executor": "Run",
-    "Python.Chiffremet_authetifier.executor": "Run",
-    "Python.Clustering.executor": "Run",
-    "Python.DES.executor": "Run",
-    "Python.Decision_Tree.executor": "Run",
-    "Python.ECB_CBC.executor": "Run",
-    "Python.Exo2.executor": "Run",
-    "Python.Exo3.executor": "Run",
-    "Python.Face_Eye_Detector.executor": "Run",
-    "Python.Hierarchical clustering.executor": "Run",
-    "Python.MLP.executor": "Run",
-    "Python.Neural Networks.executor": "Run",
-    "Python.SPN.executor": "Run",
-    "Python.StochasticGradientDescent.executor": "Run",
-    "Python.TP1_breast_cancer.executor": "Run",
-    "Python.Vest_Helmet_Detection.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.broken-Vigenere.executor": "Run",
-    "Python.cLUSTERIG.executor": "Run",
-    "Python.camera.executor": "Run",
-    "Python.code sha&$.executor": "Run",
-    "Python.curves.executor": "Run",
-    "Python.dbscan.executor": "Run",
-    "Python.dddddd.executor": "Run",
-    "Python.f.executor": "Run",
-    "Python.gdgd.executor": "Run",
-    "Python.hash exempleMD5.executor": "Run",
-    "Python.hash pdf collision.executor": "Run",
-    "Python.image.executor": "Run",
-    "Python.last.executor": "Run",
-    "Python.sou.executor": "Run",
-    "Python.syLaaast.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_exo1.executor": "Run",
-    "Python.test_exo2.executor": "Run",
-    "Python.ui_design.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AES.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Asymétrique_chiff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chiffremet_authetifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DES.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decision_Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ECB_CBC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Face_Eye_Detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hierarchical clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MLP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Neural Networks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SPN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StochasticGradientDescent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TP1_breast_cancer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vest_Helmet_Detection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.broken-Vigenere.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cLUSTERIG.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.code sha&amp;$.executor&quot;: &quot;Run&quot;,
+    &quot;Python.curves.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dbscan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dddddd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gdgd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash exempleMD5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash pdf collision.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.last.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sou.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syLaaast.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_exo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_exo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ui_design.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\T14s\Desktop\CYSIA\S2\Vision Par ORD\TP\TP6" />
@@ -114,7 +129,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
