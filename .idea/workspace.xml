@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1289652d-ed1e-47e0-bc89-84a3d9666781" name="Changes" comment="crypto TP 06 - 07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/Hassi_Crypto.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/GUIDE.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/Mini Project.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/list configurations.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Cryptography/mini_project/files/لائحة الطلبة مع رقم الإعدادات.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2/Vision Par ORD/Cours/cours2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2/Cryptography/TP/AES/AES.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +100,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;learning-Prog-Reseau&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA/S2/Vision Par ORD/TP/TP6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T14s/Desktop/CYSIA&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;
   }
 }</component>
