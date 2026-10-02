@@ -8,4 +8,4 @@ k = randint (2 , p -2)
 a = pow(g , k , p )
 b = ( m * pow (y , k , p ) ) % p
 m_rec = ( b * pow (a , p -1 -x , p ) ) % p
-print (" Message ré cupéré :", m_rec == m )
+print (" Message récupéré :", m_rec == m )

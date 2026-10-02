@@ -37,7 +37,7 @@ public class Chat extends javax.swing.JFrame {
     }
 
     Chat(Socket s, BufferedReader input, PrintWriter output, String user) {
-        this(s, input, output, user, "😊"); // Default avatar
+        this(s, input, output, user, "😊"); // default avatar
     }
     
     Chat(Socket s, BufferedReader input, PrintWriter output, String user, String avatar) {
@@ -53,7 +53,7 @@ public class Chat extends javax.swing.JFrame {
             chatArea.append(message + "\n");
         }
         
-        // Make chat area untypable
+        // can't type in chat area
         chatArea.setEditable(false);
         
         // Add ENTER key support for text field

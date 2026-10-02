@@ -1,0 +1,6 @@
+com\mycompany\etudiant\Client.class
+com\mycompany\etudiant\Etudiant.class
+com\mycompany\etudiant\ClientEtudiant.class
+com\mycompany\etudiant\Serveur.class
+com\mycompany\etudiant\ClientHandler.class
+com\mycompany\etudiant\ServerEtudiant.class
